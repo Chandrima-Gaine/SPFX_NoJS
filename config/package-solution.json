@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "chandrima-student-client-side-solution",
+    "id": "9cccb10e-636c-4e34-bd50-f7192549dfec",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": false,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/chandrima-student.sppkg"
+  }
+}
